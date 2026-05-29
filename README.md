@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Wallace Teixeira
+# 👋 Olá, me chamo Wallace Teixeira
 
 <div align="center">
 
@@ -7,8 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=7F52FF&size=28&center=true&vCenter=true&width=900&lines=Senior+PHP+Engineer;Software+Architecture+Enthusiast;DDD+%7C+Clean+Architecture+%7C+Kafka;Laravel+%7C+Node.js+%7C+Microservices;Building+scalable+backend+systems" />
 
 </div>
-
----
 
 ## 🧠 Sobre mim
 
@@ -29,21 +27,26 @@ Também compartilho conteúdo técnico sobre (está no começo):
 🌎 Meu site:
 👉 https://www.codificadorgales.com.br
 
----
-
 ## 🚀 Stack Principal
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,vuejs,nodejs,js,docker,jquery,postgres,mysql,redis,linux,git,newrelic,aws,kafka" />
+<img src="https://skillicons.dev/icons?i=php,laravel,vuejs,nodejs,js,docker,jquery,postgres,mysql,redis,linux,git,aws,kafka" />
 
 </div>
 
----
+<br>
 
 ## 🛠️ Tecnologias e Especialidades
 
-### Backend
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Backend
 
 * PHP 8+
 * Laravel
@@ -52,15 +55,31 @@ Também compartilho conteúdo técnico sobre (está no começo):
 * Kafka
 * Redis
 
-### Frontend
+<br>
 
-* Vuejs
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+* Vue.js
 * React
 * Livewire
-* Tailwind
+* Tailwind CSS
 * Bootstrap
 
-### Arquitetura e Engenharia
+<br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Arquitetura e Engenharia
 
 * DDD
 * Clean Architecture
@@ -70,7 +89,13 @@ Também compartilho conteúdo técnico sobre (está no começo):
 * TDD
 * Design Patterns
 
-### Infraestrutura e DevOps
+<br>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Infraestrutura e DevOps
 
 * Docker
 * Kubernetes
@@ -79,30 +104,30 @@ Também compartilho conteúdo técnico sobre (está no começo):
 * GitHub Actions
 * Nginx
 
----
+<br>
+
+</td>
+
+</tr>
+</table>
 
 ## 📚 Atualmente estudando
 
-* Arquitetura Full Cycle
-* Escalabilidade distribuída
 * CQRS
 * Event Sourcing
 * Observabilidade
-* Sistemas de alta performance
-
----
+* Escalabilidade distribuída
+* Arquitetura Full Cycle
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallaceb-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wallaceb-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceb-dev&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wallaceb-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -112,8 +137,6 @@ Também compartilho conteúdo técnico sobre (está no começo):
 
 </div>
 
----
-
 ## 🚀 Projetos em Destaque
 
 | Projeto          | Descrição                                                                 |
@@ -122,8 +145,6 @@ Também compartilho conteúdo técnico sobre (está no começo):
 | ⚡ Event Bus      | Sistema de eventos desacoplado utilizando arquitetura orientada a eventos |
 | 🔎 CQRS Search   | Escalabilidade de busca utilizando CQRS + Meilisearch                     |
 | 🔐 Auth API      | API de autenticação JWT com Laravel                                       |
-
----
 
 ## 🌎 Links
 
@@ -142,8 +163,6 @@ Também compartilho conteúdo técnico sobre (está no começo):
 </a>
 
 </div>
-
----
 
 <div align="center">
 
