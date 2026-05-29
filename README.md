@@ -139,12 +139,16 @@ Também compartilho conteúdo técnico sobre (está no começo):
 
 ## 🚀 Projetos em Destaque
 
+<div align="center">
+
 | Projeto          | Descrição                                                                 |
 | ---------------- | ------------------------------------------------------------------------- |
 | 🚀 SaaS Platform | Plataforma SaaS utilizando DDD + Clean Architecture                       |
 | ⚡ Event Bus      | Sistema de eventos desacoplado utilizando arquitetura orientada a eventos |
 | 🔎 CQRS Search   | Escalabilidade de busca utilizando CQRS + Meilisearch                     |
 | 🔐 Auth API      | API de autenticação JWT com Laravel                                       |
+
+</div>
 
 ## 🌎 Links
 
