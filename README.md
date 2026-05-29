@@ -96,9 +96,9 @@ Também compartilho conteúdo técnico sobre (está no começo):
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallaceb-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceb-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -108,7 +108,7 @@ Também compartilho conteúdo técnico sobre (está no começo):
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wallaceb-dev&theme=tokyonight" />
 
 </div>
 
@@ -129,15 +129,15 @@ Também compartilho conteúdo técnico sobre (está no começo):
 
 <div align="center">
 
-<a href="https://www.codificadorgales.com.br/">
+<a href="https://www.codificadorgales.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
-<a href="https://github.com/SEU_USERNAME">
+<a href="https://github.com/wallaceb-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/wallace-belem-teixeira-91099359/">
+<a href="https://www.linkedin.com/in/wallace-belem-teixeira-91099359/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
