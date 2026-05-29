@@ -41,7 +41,7 @@ Também compartilho conteúdo técnico sobre (está no começo):
 
 ## 🛠️ Tecnologias e Especialidades
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
